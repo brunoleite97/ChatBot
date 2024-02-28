@@ -1,0 +1,114 @@
+{
+  "intents": [
+    {
+      "tag": "saudação",
+      "patterns": [
+        "Oi",
+        "E aí",
+        "Como você está",
+        "Tem alguém aí?",
+        "Olá",
+        "Bom dia",
+        "Bom dia, tudo bem?",
+        "Boa tarde",
+        "Boa noite"
+      ],
+      "responses": [
+        "E aí :-)",
+        "Olá, no que posso ajudar?",
+        "Olá, como posso ajudar?"
+      ]
+    },
+    {
+      "tag": "despedida",
+      "patterns": [
+        "Tchau", 
+        "Até mais tarde", 
+        "Adeus"
+      ],
+      "responses": [
+        "Até mais tarde, obrigado pela visita",
+        "Tenha um bom dia",
+        "Tchau! Grupo Adriano Cobuccio agradece."
+      ]
+    },
+    {
+      "tag": "agradecimento",
+      "patterns": [
+        "Obrigado",
+        "Obrigada",
+        "Isso foi útil",
+        "Muito obrigado!"
+      ],
+      "responses": [
+        "Feliz em ajudar!",
+        "A qualquer momento!",
+        "É um prazer",
+        "Precisando é só chamar"
+      ]
+    },
+    {
+      "tag": "danoposbolt",
+      "patterns": [
+        "Estou com problemas com a maquininha",
+        "Devolução de maquininha"
+      ],
+      "responses": [
+        "Descreva o problema com a POS",
+        "Qual o modelo da POS?"
+      ]
+    },
+    {
+      "tag": "pagamentobolt",
+      "patterns": [
+        "Não recebi",
+        "Valor de recebimento incorreto",
+        "Valor de pagamento incorreto",
+        "Data de pagamento"
+      ],
+      "responses": [
+        "Qual seu PDV?",
+        "Qual sua razão social?",
+        "Me passe seus dados que um atendente entrará em contato"
+      ]
+    },
+    {
+      "tag": "danostroca",
+      "patterns": [
+        "Tela quebrada",
+        "Não liga",
+        "Leitor não funciona"
+      ],
+      "responses": [
+        "Aguarde um minuto iniciarei o pedido de troca",
+        "Será solicitada a troca do aparelho"
+      ]
+    },
+    {
+      "tag": "devoluçoes",
+      "patterns": [
+        "Quero devolver a maquininha",
+        "Quero devolver a POS"
+      ],
+      "responses": [
+        "Irei iniciar a solicitação de devolução",
+        "Estou iniciando o processo de devoluções",
+        "Solicitarei a devolução, poderia me confirmar Razão social ou PDV?"
+      ]
+    },
+    {
+      "tag": "engraçado",
+      "patterns": [
+        "Conte uma piada!",
+        "Me conte algo engraçado!",
+        "Você sabe uma piada?"
+      ],
+      "responses": [
+        "Por que o hipster queimou a boca? Ele tomou o café antes de ficar legal.",
+        "O que o búfalo disse quando seu filho saiu para a faculdade? Bison.",
+        "Quantos animais comem sem o rabo? Todos... Eles ão podem tirar para comer",
+        "HumptyDumpty desistiu de caçar ovos dourados e ta trabalhando na Bolt"
+      ]
+    }
+  ]
+}
