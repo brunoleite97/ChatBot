@@ -11,12 +11,31 @@
         "Bom dia",
         "Bom dia, tudo bem?",
         "Boa tarde",
-        "Boa noite"
+        "Boa noite",
+        "Hey",
+        "Oi, tudo bem?",
+        "Olá, como posso ajudar?",
+        "Olá, em que posso ser útil?",
+        "Oi, como vai?",
+        "Oi, como posso ajudar você hoje?",
+        "Olá, o que você precisa?"
       ],
       "responses": [
         "E aí :-)",
         "Olá, no que posso ajudar?",
-        "Olá, como posso ajudar?"
+        "Olá, como posso ajudar?",
+        "Oi! Tudo bem?",
+        "Oi, como posso ajudar?",
+        "Olá! Como posso ser útil?",
+        "Oi! No que posso te ajudar?",
+        "Oi, estou aqui para ajudar.",
+        "Olá! Estou disponível para ajudar.",
+        "Oi, como posso te auxiliar hoje?",
+        "Oi! Como posso ajudar você?",
+        "Olá, tudo bem? Como posso ser útil hoje?",
+        "Olá! Como posso ajudar você hoje?",
+        "Oi, estou aqui para responder suas perguntas.",
+        "Oi! Em que posso te ajudar hoje?"
       ]
     },
     {
@@ -24,12 +43,36 @@
       "patterns": [
         "Tchau", 
         "Até mais tarde", 
-        "Adeus"
+        "Adeus",
+        "Até logo",
+        "Até breve",
+        "Tenha um bom dia",
+        "Tenha uma boa tarde",
+        "Tenha uma boa noite",
+        "Fui",
+        "Estou saindo",
+        "Preciso ir",
+        "Até mais",
+        "Até amanhã",
+        "Ate mais ver",
+        "Adeus, tenha um bom dia"
       ],
       "responses": [
         "Até mais tarde, obrigado pela visita",
         "Tenha um bom dia",
-        "Tchau! Grupo Adriano Cobuccio agradece."
+        "Tchau! Grupo Adriano Cobuccio agradece.",
+        "Até logo! Espero te ver em breve.",
+        "Tenha uma boa tarde!",
+        "Até breve! Estou aqui se precisar de mais alguma coisa.",
+        "Tenha uma boa noite! Durma bem.",
+        "Foi um prazer ajudar. Até logo!",
+        "Até mais! Estou à disposição se precisar de mais alguma coisa.",
+        "Até amanhã! Que seu dia seja ótimo.",
+        "Adeus! Tenha um dia maravilhoso.",
+        "Até mais ver! Espero te ver novamente em breve.",
+        "Tenha um bom dia! Volte sempre que precisar.",
+        "Tenha uma ótima tarde!",
+        "Tenha uma boa noite! Descanse bem."
       ]
     },
     {
@@ -38,24 +81,65 @@
         "Obrigado",
         "Obrigada",
         "Isso foi útil",
-        "Muito obrigado!"
+        "Muito obrigado!",
+        "Obrigado pela ajuda",
+        "Obrigado por tudo",
+        "Agradeço muito",
+        "Muito obrigada pela atenção",
+        "Obrigado, você foi muito gentil",
+        "Obrigado por me ouvir",
+        "Obrigado por resolver isso",
+        "Obrigado por sua assistência",
+        "Agradeço pela ajuda",
+        "Muito obrigado, foi muito útil",
+        "Obrigado por estar sempre disponível"
       ],
       "responses": [
         "Feliz em ajudar!",
         "A qualquer momento!",
         "É um prazer",
-        "Precisando é só chamar"
+        "Precisando é só chamar",
+        "Por nada!",
+        "Sem problemas!",
+        "Estou aqui para ajudar!",
+        "Não mencione!",
+        "Fico feliz em ajudar!",
+        "Sempre que precisar!",
+        "Estou à disposição!",
+        "Disponha!",
+        "Não há de que!",
+        "Estou feliz por ter ajudado!",
+        "Sempre que precisar, estou aqui!"
       ]
     },
     {
       "tag": "danoposbolt",
       "patterns": [
         "Estou com problemas com a maquininha",
-        "Devolução de maquininha"
+        "Devolução de maquininha",
+        "Minha POS está com defeito",
+        "Preciso de ajuda com a maquininha",
+        "Minha maquininha não está funcionando",
+        "Como posso resolver problemas com minha POS?",
+        "Minha maquininha não está passando cartão",
+        "Problemas com minha maquininha",
+        "Estou tendo dificuldades com a maquininha",
+        "Minha maquininha está apresentando erros",
+        "Estou com dificuldades para operar minha maquininha",
+        "Problemas técnicos com minha POS",
+        "Minha POS não está ligando",
+        "Como faço para consertar minha maquininha?",
+        "Preciso de assistência técnica para minha POS"
       ],
       "responses": [
         "Descreva o problema com a POS",
-        "Qual o modelo da POS?"
+        "Qual o modelo da POS?",
+        "Gostaríamos de ajudar, por favor, descreva o problema com mais detalhes.",
+        "Você já tentou reiniciar a POS?",
+        "Qual é o erro exato que você está enfrentando?",
+        "Poderia nos informar o número de série da maquininha?",
+        "Vamos tentar resolver isso juntos. Por favor, me forneça mais detalhes sobre o problema.",
+        "Para ajudá-lo melhor, por favor, nos forneça mais informações sobre o problema que está enfrentando."
       ]
     },
     {
@@ -64,12 +148,28 @@
         "Não recebi",
         "Valor de recebimento incorreto",
         "Valor de pagamento incorreto",
-        "Data de pagamento"
+        "Data de pagamento",
+        "Problemas com meu recebimento",
+        "Problemas com o pagamento",
+        "Não recebi o valor esperado",
+        "Preciso de assistência com meu recebimento",
+        "Minha conta não foi creditada",
+        "Pagamento não foi processado corretamente",
+        "O pagamento está atrasado",
+        "Preciso de informações sobre meu pagamento",
+        "Dúvidas sobre meu recebimento",
+        "Como faço para receber meu pagamento?",
+        "Onde está meu pagamento?"
       ],
       "responses": [
         "Qual seu PDV?",
         "Qual sua razão social?",
-        "Me passe seus dados que um atendente entrará em contato"
+        "Me passe seus dados que um atendente entrará em contato",
+        "Para ajudá-lo melhor, por favor, nos forneça mais informações sobre o problema que está enfrentando.",
+        "Gostaríamos de entender melhor a situação. Poderia nos fornecer mais detalhes?",
+        "Por favor, aguarde um momento enquanto verificamos seu pagamento.",
+        "Vamos resolver isso para você. Por favor, nos forneça mais informações.",
+        "Lamentamos pelo transtorno. Vamos investigar e entrar em contato em breve."
       ]
     },
     {
@@ -77,23 +177,55 @@
       "patterns": [
         "Tela quebrada",
         "Não liga",
-        "Leitor não funciona"
+        "Leitor não funciona",
+        "Problemas com minha maquininha",
+        "Minha POS não está ligando",
+        "Tela da maquininha está quebrada",
+        "Não consigo ligar minha maquininha",
+        "Leitor de cartão não está funcionando",
+        "Minha maquininha não está funcionando corretamente",
+        "Preciso trocar minha maquininha",
+        "Estou tendo problemas com minha POS",
+        "Como faço para solicitar a troca da minha maquininha?",
+        "Minha maquininha não está funcionando como esperado",
+        "Maquininha apresenta problemas ao ligar",
+        "Leitor de cartão não passa corretamente"
       ],
       "responses": [
         "Aguarde um minuto iniciarei o pedido de troca",
-        "Será solicitada a troca do aparelho"
+        "Será solicitada a troca do aparelho",
+        "Lamentamos pelo inconveniente. Vamos solicitar a troca da maquininha para você.",
+        "Para ajudá-lo melhor, por favor, nos forneça mais informações sobre o problema que está enfrentando.",
+        "Vamos resolver isso para você. Por favor, aguarde enquanto processamos a troca.",
+        "Por favor, nos forneça o número de série da maquininha para que possamos proceder com a troca."
       ]
     },
     {
       "tag": "devoluçoes",
       "patterns": [
         "Quero devolver a maquininha",
-        "Quero devolver a POS"
+        "Quero devolver a POS",
+        "Preciso fazer uma devolução",
+        "Como faço para devolver minha maquininha?",
+        "Quero solicitar a devolução da minha maquininha",
+        "Devolver maquininha",
+        "Como proceder com a devolução da maquininha?",
+        "Quero devolver minha POS",
+        "Preciso devolver minha maquininha",
+        "Quero enviar de volta minha maquininha",
+        "Como faço para solicitar a devolução?",
+        "Estou insatisfeito e quero devolver a maquininha",
+        "Posso devolver minha POS?",
+        "Quero cancelar meu pedido e devolver a maquininha",
+        "Como faço para devolver a maquininha para vocês?"
       ],
       "responses": [
         "Irei iniciar a solicitação de devolução",
         "Estou iniciando o processo de devoluções",
-        "Solicitarei a devolução, poderia me confirmar Razão social ou PDV?"
+        "Solicitarei a devolução, poderia me confirmar Razão social ou PDV?",
+        "Para ajudá-lo melhor, por favor, nos forneça mais informações sobre o motivo da devolução.",
+        "Lamentamos pela inconveniência. Vamos iniciar o processo de devolução para você.",
+        "Por favor, aguarde um momento enquanto iniciamos o processo de devolução."
       ]
     },
     {
@@ -101,13 +233,258 @@
       "patterns": [
         "Conte uma piada!",
         "Me conte algo engraçado!",
-        "Você sabe uma piada?"
+        "Você sabe uma piada?",
+        "Quero rir um pouco!",
+        "Estou entediado, me distraia!",
+        "Tenho vontade de rir!",
+        "Me faça sorrir!",
+        "Conte algo divertido!",
+        "Estou triste, me anime com uma piada!",
+        "Me divirta com uma piada!",
+        "Estou de mau humor, me faça rir!",
+        "Preciso de algo engraçado!",
+        "Quero ouvir uma piada!",
+        "Faça-me rir!",
+        "Estou precisando de humor!"
       ],
       "responses": [
         "Por que o hipster queimou a boca? Ele tomou o café antes de ficar legal.",
         "O que o búfalo disse quando seu filho saiu para a faculdade? Bison.",
-        "Quantos animais comem sem o rabo? Todos... Eles ão podem tirar para comer",
-        "HumptyDumpty desistiu de caçar ovos dourados e ta trabalhando na Bolt"
+        "Quantos animais comem sem o rabo? Todos... Eles não podem tirar para comer",
+        "HumptyDumpty desistiu de caçar ovos dourados e tá trabalhando na Bolt",
+        "Por que o livro de matemática ficou deprimido? Porque tinha muitos problemas.",
+        "Qual é o contrário de 'domingo'? Eu não domino nada.",
+        "O que acontece com um sapo que estaciona mal? Ele é rebocado.",
+        "Por que o maratonista foi expulso da equipe? Porque ele estava sempre atrasado.",
+        "O que um disco disse para o outro? Você roda minha vida!",
+        "Por que o pássaro estava na escola? Porque ele era um aluno de coruja.",
+        "O que acontece quando chove dinheiro? Há uma chuva de trocados.",
+        "Por que o computador foi para o médico? Porque estava com vírus de arquivo.",
+        "Qual é o animal mais antigo do mundo? A zebra, porque está sempre listrada.",
+        "Por que o livro de física dormiu fora da estante? Porque queria ter mais momento.",
+        "O que o zero disse para o oito? Uau, seu cinto está apertado."
+      ]
+    },
+    {
+      "tag": "informação",
+      "patterns": [
+        "Qual é o seu horário de funcionamento?",
+        "Como faço para entrar em contato?",
+        "Onde posso encontrar mais informações sobre os produtos?",
+        "Quais são os métodos de pagamento aceitos?",
+        "Vocês oferecem garantia para os produtos?",
+        "Qual é o prazo de entrega dos produtos?",
+        "Vocês entregam em todo o país?",
+        "Posso acompanhar o status do meu pedido?",
+        "Existe algum custo adicional para entrega?",
+        "O que fazer em caso de produto danificado?",
+        "Quanto tempo demora para processar um reembolso?",
+        "Quais são as políticas de devolução?",
+        "Como faço para cancelar um pedido?",
+        "Posso fazer alterações no meu pedido após a compra?",
+        "Vocês têm um programa de fidelidade?"
+      ],
+      "responses": [
+        "Nosso horário de funcionamento é das 9h às 18h, de segunda a sexta-feira.",
+        "Você pode nos contatar através do telefone (XX) XXXX-XXXX ou pelo email contato@empresa.com.",
+        "Para mais informações sobre nossos produtos, visite nosso site em www.empresa.com ou entre em contato conosco.",
+        "Aceitamos cartões de crédito, débito e pagamento à vista.",
+        "Sim, oferecemos garantia de um ano para todos os nossos produtos.",
+        "O prazo de entrega dos produtos pode variar de acordo com a localização. Entre em contato para mais detalhes.",
+        "Sim, realizamos entregas em todo o país.",
+        "Sim, você pode acompanhar o status do seu pedido através do nosso site.",
+        "O custo de entrega pode variar de acordo com a localização e o tipo de entrega escolhido.",
+        "Em caso de produto danificado, entre em contato conosco imediatamente para que possamos resolver o problema.",
+        "O reembolso geralmente é processado dentro de 5 a 7 dias úteis após a devolução do produto.",
+        "Nossas políticas de devolução podem ser encontradas em nosso site ou você pode entrar em contato conosco para mais informações.",
+        "Para cancelar um pedido, entre em contato conosco informando o número do pedido e o motivo do cancelamento.",
+        "Alterações no pedido podem ser possíveis, dependendo do estágio do processamento. Entre em contato conosco para mais informações.",
+        "Sim, temos um programa de fidelidade. Você pode se inscrever em nosso site para participar."
+      ]
+    },
+    {
+      "tag": "reclamação",
+      "patterns": [
+        "Estou insatisfeito com o produto que comprei",
+        "Recebi um produto danificado",
+        "O atendimento que recebi não foi satisfatório",
+        "Quero reportar um problema com o serviço",
+        "Não recebi meu pedido",
+        "Meu produto não corresponde à descrição",
+        "Não estou satisfeito com o prazo de entrega",
+        "O produto que recebi está com defeito",
+        "Fui mal atendido",
+        "Quero reclamar sobre o atendimento",
+        "Estou desapontado com a qualidade do produto",
+        "O produto que recebi não é o que eu esperava",
+        "Não fiquei satisfeito com a compra",
+        "Quero fazer uma reclamação formal",
+        "Estou muito insatisfeito com o serviço prestado"
+      ],
+      "responses": [
+        "Pedimos desculpas pelo transtorno. Por favor, nos forneça mais detalhes para que possamos resolver o problema.",
+        "Lamentamos pelo ocorrido. Vamos resolver isso para você. Poderia nos informar mais detalhes sobre o problema?",
+        "Entendemos sua insatisfação. Vamos investigar o ocorrido e entraremos em contato o mais rápido possível para resolver o problema.",
+        "Sentimos muito pelo inconveniente. Por favor, nos forneça mais informações para que possamos resolver essa questão.",
+        "Lamentamos pela situação. Vamos investigar e entrar em contato em breve para resolver o problema.",
+        "Estamos comprometidos em resolver sua reclamação. Por favor, nos forneça mais detalhes sobre o problema.",
+        "Nós levamos as reclamações dos nossos clientes muito a sério. Por favor, nos forneça mais informações para que possamos investigar o ocorrido.",
+        "Pedimos desculpas pelo transtorno. Vamos tomar as medidas necessárias para resolver o problema o mais rápido possível.",
+        "Lamentamos pelo ocorrido. Vamos investigar e resolver o problema o mais rápido possível.",
+        "Estamos comprometidos em fornecer um serviço de qualidade. Por favor, nos forneça mais detalhes para que possamos resolver o problema.",
+        "Nós valorizamos seus comentários e vamos trabalhar para resolver suas preocupações o mais rápido possível.",
+        "Lamentamos pelo inconveniente. Vamos resolver isso para você. Por favor, nos forneça mais informações sobre o problema.",
+        "Por favor, aceite nossas desculpas pelo transtorno. Estamos comprometidos em resolver o problema o mais rápido possível.",
+        "Estamos comprometidos em fornecer um serviço de qualidade. Por favor, nos forneça mais detalhes sobre o problema para que possamos investigar.",
+        "Lamentamos pelo ocorrido. Vamos resolver isso para você. Por favor, nos forneça mais detalhes sobre o problema."
+      ]
+    },
+    {
+      "tag": "elogio",
+      "patterns": [
+        "Adorei o atendimento que recebi",
+        "O produto que comprei superou minhas expectativas",
+        "Estou muito satisfeito com o serviço prestado",
+        "Quero elogiar o suporte técnico",
+        "Recomendo muito a empresa",
+        "Estou muito feliz com minha compra",
+        "Vocês são incríveis",
+        "Muito obrigado pela experiência maravilhosa",
+        "Quero parabenizar toda a equipe",
+        "Estou encantado com o produto",
+        "Fui surpreendido positivamente",
+        "Vocês são nota 10",
+        "O atendimento foi excepcional",
+        "Quero expressar minha gratidão",
+        "Parabéns pelo excelente serviço"
+      ],
+      "responses": [
+        "Ficamos felizes em saber que você teve uma boa experiência conosco. Obrigado pelo feedback positivo!",
+        "É ótimo saber que pudemos atender às suas expectativas. Agradecemos o seu elogio!",
+        "Sua satisfação é nossa maior recompensa. Muito obrigado pelo reconhecimento!",
+        "Agradecemos pelo elogio! Estamos sempre à disposição para oferecer o melhor atendimento possível.",
+        "Muito obrigado por seus gentis comentários. Ficamos felizes em saber que você está satisfeito com nossos produtos e serviços.",
+        "É ótimo receber seu feedback positivo! Estamos muito felizes por termos atendido às suas expectativas.",
+        "Seu elogio é muito apreciado. Obrigado por reconhecer nosso trabalho duro!",
+        "Agradecemos seu apoio contínuo e seus amáveis elogios. Estamos aqui para ajudar sempre que precisar.",
+        "Obrigado pelo elogio! Estamos comprometidos em oferecer um serviço excepcional a todos os nossos clientes.",
+        "Ficamos muito gratos por seu elogio. É um prazer servir clientes como você.",
+        "Obrigado por suas palavras gentis. Estamos sempre trabalhando para oferecer o melhor serviço possível.",
+        "Seu elogio é a maior recompensa para nós. Obrigado por compartilhar sua experiência positiva!",
+        "Obrigado por reconhecer nosso trabalho duro. Estamos aqui para ajudar sempre que precisar.",
+        "Agradecemos pelo elogio! Estamos sempre buscando oferecer o melhor serviço possível aos nossos clientes.",
+        "Ficamos muito felizes em saber que você teve uma experiência positiva conosco. Obrigado pelo feedback!"
+      ]
+    },
+    {
+      "tag": "suporte",
+      "patterns": [
+        "Preciso de ajuda com um problema técnico",
+        "Como posso obter suporte técnico?",
+        "Estou com dificuldades para configurar o produto",
+        "Onde encontro as instruções de uso?",
+        "Tenho problemas com o funcionamento do produto",
+        "Como posso entrar em contato com o suporte?",
+        "Não consigo encontrar a solução para meu problema",
+        "Como faço para obter ajuda técnica?",
+        "Estou tendo dificuldades com a instalação do produto",
+        "Preciso de suporte para resolver um problema",
+        "Quero falar com um técnico",
+        "Estou com dúvidas sobre o funcionamento do produto",
+        "Não sei como utilizar corretamente o produto",
+        "Estou enfrentando problemas com o software",
+        "Como posso solucionar um problema técnico?"
+      ],
+      "responses": [
+        "Nosso suporte técnico está disponível para ajudá-lo. Por favor, descreva o problema que está enfrentando.",
+        "Você pode entrar em contato com nosso suporte técnico pelo telefone (XX) XXXX-XXXX ou pelo email suporte@empresa.com.",
+        "As instruções de uso podem ser encontradas no manual do produto, que está disponível para download em nosso site.",
+        "Para resolver problemas técnicos, entre em contato com nosso suporte técnico. Estamos aqui para ajudar.",
+        "Estamos aqui para ajudá-lo a resolver qualquer problema que possa surgir. Entre em contato conosco para obter suporte técnico.",
+        "Se você está enfrentando dificuldades com a configuração do produto, entre em contato com nosso suporte técnico para obter assistência.",
+        "Para solucionar problemas técnicos, entre em contato com nosso suporte técnico. Estamos à disposição para ajudar.",
+        "Estamos aqui para ajudá-lo a resolver qualquer problema técnico que possa surgir. Entre em contato conosco para obter assistência.",
+        "Não hesite em entrar em contato com nosso suporte técnico se precisar de ajuda. Estamos aqui para ajudá-lo.",
+        "Para obter suporte técnico, entre em contato conosco pelo telefone (XX) XXXX-XXXX ou pelo email suporte@empresa.com.",
+        "Se precisar de ajuda técnica, não hesite em entrar em contato com nosso suporte. Estamos aqui para ajudar.",
+        "Estamos disponíveis para ajudá-lo com quaisquer problemas técnicos que possam surgir. Entre em contato conosco para obter assistência.",
+        "Se você tiver dúvidas sobre o funcionamento do produto, entre em contato com nosso suporte técnico. Estamos aqui para ajudá-lo.",
+        "Para obter ajuda técnica, entre em contato com nosso suporte. Estamos à disposição para ajudá-lo a resolver qualquer problema que possa surgir.",
+        "Se precisar de suporte técnico, entre em contato conosco. Estamos aqui para ajudá-lo."
+      ]
+    },
+    {
+      "tag": "feedback",
+      "patterns": [
+        "Quero dar um feedback sobre o serviço",
+        "Como posso enviar um feedback?",
+        "Tenho sugestões para melhorar o serviço",
+        "Gostaria de compartilhar minha opinião sobre a experiência de compra",
+        "Quero fornecer minha opinião sobre o atendimento",
+        "Como faço para enviar um feedback?",
+        "Quero expressar minha opinião sobre o produto",
+        "Tenho comentários sobre o serviço prestado",
+        "Como posso deixar um feedback sobre o produto?",
+        "Quero compartilhar minha experiência com vocês",
+        "Tenho algumas sugestões para vocês",
+        "Gostaria de deixar meu feedback sobre a empresa",
+        "Quero fornecer minha opinião sobre o produto que comprei",
+        "Como faço para enviar minhas sugestões?",
+        "Tenho algumas ideias para melhorar o serviço"
+      ],
+      "responses": [
+        "Agradecemos pelo seu feedback! Sua opinião é muito importante para nós.",
+        "Estamos sempre abertos a sugestões para melhorar nossos serviços. Fique à vontade para compartilhar suas ideias conosco.",
+        "Se você teve uma experiência positiva ou negativa conosco, gostaríamos de ouvir sua opinião. Por favor, compartilhe seu feedback conosco.",
+        "Seu feedback é muito valioso para nós. Por favor, nos conte sobre sua experiência para que possamos melhorar nossos serviços.",
+        "Valorizamos seus comentários e sugestões. Por favor, compartilhe sua opinião conosco para que possamos melhorar.",
+        "Estamos sempre buscando maneiras de melhorar nossos serviços. Por favor, nos conte sobre sua experiência para que possamos fazer melhorias.",
+        "Agradecemos por compartilhar sua opinião conosco. Seu feedback é essencial para ajudar-nos a melhorar nossos serviços.",
+        "Se você tiver algum comentário ou sugestão sobre nossos serviços, não hesite em nos informar. Estamos sempre abertos a ouvir nossos clientes.",
+        "Obrigado por compartilhar sua opinião conosco. Seu feedback é valioso e nos ajuda a melhorar continuamente.",
+        "Agradecemos por fornecer seu feedback. Estamos comprometidos em usar suas sugestões para melhorar nossos serviços.",
+        "Se você tiver alguma sugestão sobre como podemos melhorar, gostaríamos de ouvir. Seu feedback é muito importante para nós.",
+        "Estamos sempre buscando maneiras de melhorar. Se você tiver alguma sugestão, por favor, nos avise. Seu feedback é valioso para nós.",
+        "Agradecemos por compartilhar suas ideias conosco. Seu feedback é crucial para nos ajudar a melhorar nossos serviços.",
+        "Valorizamos seu feedback. Por favor, compartilhe suas sugestões para que possamos continuar a melhorar nossos serviços.",
+        "Estamos comprometidos em fornecer um excelente serviço aos nossos clientes. Se você tiver alguma sugestão, gostaríamos de ouvir."
+      ]
+    },
+    {
+      "tag": "cancelamento",
+      "patterns": [
+        "Quero cancelar um pedido",
+        "Como faço para cancelar uma compra?",
+        "Preciso cancelar um pedido",
+        "Quero desistir da compra que fiz",
+        "Como faço para cancelar uma assinatura?",
+        "Quero cancelar minha compra",
+        "Estou pensando em cancelar meu pedido",
+        "Como posso cancelar uma encomenda?",
+        "Quero desistir da compra que fiz",
+        "Estou arrependido da compra que fiz",
+        "Preciso cancelar um serviço",
+        "Quero cancelar minha inscrição",
+        "Como faço para cancelar meu pedido?",
+        "Quero cancelar uma reserva que fiz",
+        "Estou reconsiderando minha compra e gostaria de cancelá-la"
+      ],
+      "responses": [
+        "Para cancelar um pedido, entre em contato conosco informando o número do pedido e o motivo do cancelamento.",
+        "Se você deseja cancelar uma compra, entre em contato conosco o mais rápido possível para que possamos ajudá-lo.",
+        "Lamentamos pelo inconveniente. Por favor, entre em contato conosco para cancelar seu pedido.",
+        "Para cancelar uma assinatura, entre em contato conosco informando seus dados de cadastro.",
+        "Estamos aqui para ajudá-lo a cancelar sua compra. Por favor, entre em contato conosco para mais informações.",
+        "Se você decidiu cancelar sua compra, entre em contato conosco para que possamos ajudá-lo com o processo de cancelamento.",
+        "Estamos disponíveis para ajudá-lo a cancelar sua compra. Por favor, entre em contato conosco para mais informações.",
+        "Se você precisa cancelar uma encomenda, entre em contato conosco o mais rápido possível para que possamos ajudá-lo.",
+        "Se você deseja cancelar sua compra, entre em contato conosco o mais rápido possível para que possamos ajudá-lo.",
+        "Estamos aqui para ajudá-lo a cancelar seu serviço. Por favor, entre em contato conosco para mais informações.",
+        "Se você deseja cancelar sua inscrição, entre em contato conosco informando seus dados de cadastro.",
+        "Lamentamos que você deseje cancelar seu pedido. Por favor, entre em contato conosco para que possamos ajudá-lo com o cancelamento.",
+        "Se você precisa cancelar seu pedido, entre em contato conosco informando o número do pedido e o motivo do cancelamento.",
+        "Estamos aqui para ajudá-lo a cancelar sua reserva. Por favor, entre em contato conosco para mais informações.",
+        "Se você deseja cancelar sua compra, entre em contato conosco para que possamos ajudá-lo com o processo de cancelamento."
       ]
     }
   ]
